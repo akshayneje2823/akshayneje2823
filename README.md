@@ -7,7 +7,7 @@ Full Stack Developer
 Hello there! I'm Akshay, a passionate developer with a year of experience in the dynamic world of front-end development and another year as a full-stack enthusiast. My journey has led me to contribute to impactful projects, including LMS (Learning Management System) software and various e-commerce solutions.
 
 * 🌍  I'm based in Bengaluru
-* 🖥️  See my portfolio at [Akshay Neje](http://akshayneje.com](https://frabjous-lamington-96f170.netlify.app/))
+* 🖥️  See my portfolio at [Akshay Neje](https://frabjous-lamington-96f170.netlify.app/))
 * ✉️  You can contact me at [akshayneje2823@gmail.com](mailto:akshayneje2823@gmail.com)
 * 🚀  I'm currently working on [Grand Heavens Website](http://www.grandheavens.com/)
 * 🧠  I'm learning NextJs,React Native
