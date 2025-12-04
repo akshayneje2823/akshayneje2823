@@ -8,7 +8,7 @@ Hello there! I'm Akshay
 * 🖥️  See my portfolio at [Akshay Neje](https://frabjous-lamington-96f170.netlify.app/))
 * ✉️  You can contact me at [akshayneje2823@gmail.com](mailto:akshayneje2823@gmail.com)
 * 🤝  I'm open to collaborating on Open-source projects in web development.
-* 
+  
 ### Skills
 
 
